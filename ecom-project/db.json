@@ -1,0 +1,249 @@
+{
+  "seller": [
+    {
+      "name": "hamza",
+      "email": "hadhaiihd@gmail.com",
+      "password": "adadada",
+      "id": 2
+    },
+    {
+      "name": "shfisihf",
+      "email": "fihif@@gmail.com",
+      "password": "dadiohd",
+      "id": 3
+    },
+    {
+      "name": "hamza hashmi",
+      "email": "hashmihamza846@gmail.com",
+      "password": "hamis0333",
+      "id": 4
+    },
+    {
+      "name": "name",
+      "email": "hashmihamza0333@gmail.com",
+      "password": "password",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "name": "Sample product 1",
+      "price": "000",
+      "category": "computers",
+      "color": "white",
+      "description": "sample description 2",
+      "image": "https://images.unsplash.com/photo-1512054502232-10a0a035d672?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8aXBob25lfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "id": 2
+    },
+    {
+      "name": "new product",
+      "price": "3232",
+      "category": "electronics",
+      "color": "gray",
+      "description": "new description with new me",
+      "image": "https://images.unsplash.com/photo-1588508065123-287b28e013da?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGVsZWN0cm9uaWNzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "id": 4
+    },
+    {
+      "name": "iphone x ",
+      "price": "200000",
+      "category": "mobile phone",
+      "color": "sky blue",
+      "description": "mobile for youu",
+      "image": "https://images.unsplash.com/photo-1523206489230-c012c64b2b48?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aXBob25lJTIweHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "id": 5
+    },
+    {
+      "name": "Sample 5",
+      "price": "878",
+      "category": "mobile",
+      "color": "black",
+      "description": "sample product description",
+      "image": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aXBob25lfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aXBob25lfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "id": 6
+    },
+    {
+      "name": "sample 6",
+      "price": "2312",
+      "category": "mobile",
+      "color": "white",
+      "description": "sample description 5 ",
+      "image": "https://images.unsplash.com/photo-1537589376225-5405c60a5bd8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGlwaG9uZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "id": 7
+    },
+    {
+      "name": "sample 7",
+      "price": "232",
+      "category": "shirts",
+      "color": "white",
+      "description": "sample description 7",
+      "image": "https://images.unsplash.com/photo-1581655353564-df123a1eb820?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8c2hpcnRzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "id": 8
+    },
+    {
+      "name": "sample 8",
+      "price": "323",
+      "category": "shirts",
+      "color": "blue",
+      "description": "sample 8",
+      "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8c2hpcnRzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "id": 9
+    },
+    {
+      "name": "sample 9",
+      "price": "3213",
+      "category": "shirts",
+      "color": "multi",
+      "description": "sample 9 ",
+      "image": "https://images.unsplash.com/photo-1562157873-818bc0726f68?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8c2hpcnRzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "id": 10
+    },
+    {
+      "name": "sample 10",
+      "price": "3237",
+      "category": "shirts",
+      "color": "black",
+      "description": "sample description 10",
+      "image": "https://plus.unsplash.com/premium_photo-1673125286510-2c2e0f89c521?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8c2hpcnRzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "id": 11
+    }
+  ],
+  "users": [
+    {
+      "name": "hamza hashmi",
+      "email": "hashmihamza846@gmail.com",
+      "password": "password",
+      "id": 1
+    },
+    {
+      "name": "imran khan",
+      "email": "imran@gmail.com",
+      "password": "password",
+      "id": 2
+    },
+    {
+      "name": "rahim khan",
+      "email": "test@gmail.com",
+      "password": "fasjfiopjaf",
+      "id": 3
+    }
+  ],
+  "cart": [
+    {
+      "name": "Sample 5",
+      "price": "878",
+      "category": "mobile",
+      "color": "black",
+      "description": "sample product description",
+      "image": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aXBob25lfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aXBob25lfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 6,
+      "id": 2
+    }
+  ],
+  "orders": [
+    {
+      "email": "hashmihamza846@gmail.com",
+      "address": "1/345 shah faisal colony block 1 , karachi",
+      "contact": "03432992679",
+      "totalPrice": 7565.7,
+      "userId": 1,
+      "newProductData": [
+        {
+          "name": "sample 8",
+          "price": "323",
+          "category": "shirts",
+          "color": "blue",
+          "description": "sample 8",
+          "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8c2hpcnRzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+          "quantity": 1,
+          "userId": 1,
+          "productId": 9,
+          "id": 13
+        },
+        {
+          "name": "new product",
+          "price": "3232",
+          "category": "electronics",
+          "color": "gray",
+          "description": "new description with new me",
+          "image": "https://images.unsplash.com/photo-1588508065123-287b28e013da?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGVsZWN0cm9uaWNzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+          "quantity": 2,
+          "userId": 1,
+          "productId": 4,
+          "id": 14
+        }
+      ],
+      "id": 4
+    },
+    {
+      "email": "hamza hashmi",
+      "address": "asfhasoihf",
+      "contact": "fshfoishfio",
+      "totalPrice": 7565.7,
+      "userId": 1,
+      "newProductData": [
+        {
+          "name": "sample 8",
+          "price": "323",
+          "category": "shirts",
+          "color": "blue",
+          "description": "sample 8",
+          "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8c2hpcnRzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+          "quantity": 1,
+          "userId": 1,
+          "productId": 9,
+          "id": 13
+        },
+        {
+          "name": "new product",
+          "price": "3232",
+          "category": "electronics",
+          "color": "gray",
+          "description": "new description with new me",
+          "image": "https://images.unsplash.com/photo-1588508065123-287b28e013da?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGVsZWN0cm9uaWNzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+          "quantity": 2,
+          "userId": 1,
+          "productId": 4,
+          "id": 14
+        }
+      ],
+      "id": 5
+    },
+    {
+      "email": "ojsfopsafop",
+      "address": "fopshfpooshfpo",
+      "contact": "hfpospohfpohf",
+      "totalPrice": 4621,
+      "userId": 1,
+      "newProductData": [
+        {
+          "name": "new product",
+          "price": "3232",
+          "category": "electronics",
+          "color": "gray",
+          "description": "new description with new me",
+          "image": "https://images.unsplash.com/photo-1588508065123-287b28e013da?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGVsZWN0cm9uaWNzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+          "quantity": 1,
+          "userId": 1,
+          "productId": 4,
+          "id": 13
+        },
+        {
+          "name": "Sample 5",
+          "price": "878",
+          "category": "mobile",
+          "color": "black",
+          "description": "sample product description",
+          "image": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aXBob25lfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aXBob25lfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+          "quantity": 1,
+          "userId": 1,
+          "productId": 6,
+          "id": 14
+        }
+      ],
+      "id": 6
+    }
+  ]
+}

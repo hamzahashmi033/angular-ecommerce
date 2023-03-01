@@ -1,0 +1,16 @@
+.checkout h1{
+    text-align:center;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+.checkout h3{
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.form-button{
+    margin-bottom: 100px;
+}
+.message-p{
+    text-align: center;
+}
